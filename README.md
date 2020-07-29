@@ -1,2 +1,2 @@
 # q-learning-taxi
-A taxi experiment using Q-learning reinforcement
+A reinforcement learning experiemnt written in vanilla Python using Q-learning technique
